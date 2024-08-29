@@ -8,7 +8,7 @@
   </p>
   <div style="width: 200px; text-align: center;">
       <a href="https://github.com/spinozapy">
-        <img src="https://komarev.com/ghpvc/?username=spinozapy&color=blueviolet&style=plastic&abbreviated=true" alt="Profile Views">
+        <img src="https://komarev.com/ghpvc/?username=spinozapy&color=blueviolet&style=plastic&abbreviated=true&label=Profile+Views:" alt="Profile Views">
       </a>
     </div>
   </div>
