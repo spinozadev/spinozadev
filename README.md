@@ -15,9 +15,7 @@
     </div>
    <br>
   <div class="center">
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinozapy&hide=php&theme=dark" />
-      </a>
+      ![](https://komarev.com/ghpvc/?username=spinozapy&color=blueviolet&style=plastic&abbreviated=true)
     </div>
   </div>
 </div>
