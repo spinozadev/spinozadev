@@ -7,9 +7,7 @@
     <a href="https://instagram.com/spinozapy" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   </p>
   <div style="width: 200px; text-align: center;">
-      <a href="https://github.com/spinozapy">
         <img src="https://komarev.com/ghpvc/?username=spinozapy&color=blueviolet&style=plastic&abbreviated=true&label=Profile+Views:" alt="Profile Views">
-      </a>
     </div>
   </div>
 </div>
