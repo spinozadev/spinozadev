@@ -1,5 +1,6 @@
 <div align="center">
-  <h3>Hey there, I'm <a href="https://spinoza.wtf">Spinoza</a></h3>
+  <h2>{ spinoza.py }</h2>
+  <h3>Hello friend, I'm <a href="https://spinoza.wtf">Spinoza</a></h3>
   <h5>You can reach me with the links below.</h5>
 
   <p>
