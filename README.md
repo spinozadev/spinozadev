@@ -10,5 +10,4 @@
         <img src="https://komarev.com/ghpvc/?username=spinozapy&color=blueviolet&style=plastic&label=Profile+Views:" alt="Profile Views">
     </div>
   </div>
-[![Discord Presence](https://lanyard.cnrad.dev/api/119788257859993601)](https://discord.com/users/119788257859993601)
 </div>
